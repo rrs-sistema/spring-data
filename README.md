@@ -1,5 +1,5 @@
-# spring-data
-Spring Data JPA: Repositórios, Consultas, Projeções e Specifications.
+# Spring-data
+  Spring Data JPA: Repositórios, Consultas, Projeções e Specifications.
 
 # Repositórios
   Usando os repositórios poderosos do Spring Data
